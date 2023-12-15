@@ -18,7 +18,7 @@ body {
         display: flex;
         align-items: center;
         justify-content: center; */
-        background-image: url(./images/rows-red-seats-theater.jpg);
+        background: url(./images/paolo-chiabrando-G16kFHYvCoQ-unsplash.jpg);
     height: 100vh;
     font-family: poppins;
     display: flex;
