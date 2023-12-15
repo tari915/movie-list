@@ -79,7 +79,7 @@ input[type="submit"]:hover {
     background-color: white;
     /* background-color: #f4f4f4; */
     width: 500px;
-    height: 300px;
+    height: auto 300px;
     color: red;
     box-shadow: 7px 7px 7px 0px rgba(80, 80, 80, 0.65);
     border-radius: 5px 5px 0 0;
